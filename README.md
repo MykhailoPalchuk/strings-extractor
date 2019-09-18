@@ -1,4 +1,4 @@
-# strings-sxtractor
+# strings-extractor
 Tool for extracting string literals from Swift project
 
 This command line tool uses regular expressions to extract lines with string literals and literals themselves. It filters out lines with log messages. 
